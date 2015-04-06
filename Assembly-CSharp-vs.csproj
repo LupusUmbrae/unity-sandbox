@@ -49,6 +49,7 @@
      <Compile Include="Assets\Scripts\Building\BuildingController.cs" />
      <Compile Include="Assets\Scripts\Building\BuildingElement.cs" />
      <Compile Include="Assets\Scripts\Building\BuildingStages.cs" />
+     <Compile Include="Assets\Scripts\DoorScript.cs" />
      <Compile Include="Assets\Scripts\Interactable.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Retical.cs" />
