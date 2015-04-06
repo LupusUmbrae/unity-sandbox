@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Building\BuildingStages.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Interactable.cs" Line="11" Column="59" />
+      <File FileName="Assets\Scripts\PlayerController.cs" Line="76" Column="40" />
+      <File FileName="Assets\Scripts\Building\BuildingController.cs" Line="38" Column="4" />
+      <File FileName="Assets\Scripts\Building\BuildingElement.cs" Line="13" Column="3" />
+      <File FileName="Assets\Scripts\Building\BuildingStages.cs" Line="36" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
