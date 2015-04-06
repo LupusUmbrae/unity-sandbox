@@ -4,3 +4,6 @@ Library
 /Sandbox.userprefs
 Temp
 *.log
+*.csproj
+Thumbs.db.meta
+Thumbs.db

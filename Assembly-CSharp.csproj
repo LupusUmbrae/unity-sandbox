@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Building\BuildingStages.cs" />
      <Compile Include="Assets\Scripts\DoorScript.cs" />
      <Compile Include="Assets\Scripts\Interactable.cs" />
+     <Compile Include="Assets\Scripts\MarkerController.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
      <Compile Include="Assets\Scripts\Retical.cs" />
  <Reference Include="UnityEngine.UI">
