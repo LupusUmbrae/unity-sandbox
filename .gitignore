@@ -7,3 +7,9 @@ Temp
 *.csproj
 Thumbs.db.meta
 Thumbs.db
+Assembly-CSharp-vs.csproj
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor-vs.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-CSharp-firstpass-vs.csproj
