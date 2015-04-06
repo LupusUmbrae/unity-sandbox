@@ -96,4 +96,5 @@ public class PlayerController : MonoBehaviour
 		
 		transform.FindChild ("Main Camera").transform.localEulerAngles = new Vector3 (-rotationY, transform.FindChild ("Main Camera").transform.localEulerAngles.y, 0);
 	}
+
 }
